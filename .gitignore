@@ -1,0 +1,6 @@
+__MACOSX
+__pycache__
+data
+output
+*.csv
+*.log
